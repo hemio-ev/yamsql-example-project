@@ -1,0 +1,4 @@
+# schema/math/schema.yml
+name: math
+description: |
+ Some basic math in SQL

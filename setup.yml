@@ -1,0 +1,5 @@
+# setup.yml
+schemas:
+ - math
+schema_dirs:
+ - schemas
